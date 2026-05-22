@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Etherscan-like favicon">
+  <!-- rounded blue square background -->
+  <rect x="0" y="0" width="64" height="64" rx="10" ry="10" fill="#173A66"></rect>
+  <!-- inner white circle (badge) -->
+  <circle cx="32" cy="28" r="18" fill="#ffffff"></circle>
+  <!-- rising bars (left->right) -->
+  <rect x="22" y="32" width="4.5" height="8" rx="0.9" fill="#173A66"></rect>
+  <rect x="27.5" y="28" width="4.5" height="12" rx="0.9" fill="#173A66"></rect>
+  <rect x="33" y="24" width="4.5" height="16" rx="0.9" fill="#173A66"></rect>
+  <!-- swoosh / arch element -->
+  <path d="M18 38 C26 44, 40 46, 48 36" fill="none" stroke="#173A66" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
